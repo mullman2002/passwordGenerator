@@ -1,0 +1,25 @@
+**Password Generator
+
+This repo serves as a test bed for my first repo as well as my first java project
+
+The password generator creates a password with the criteria from the user input,
+password length, amount of special characters, and any desired words or phrases.
+
+The password is then randomized.
+
+Sample run
+
+Create password?   y
+Enter length of password:  6
+Special Characters?   y
+How many?  2
+Special word?  y
+Enter word?  fun
+
+Password is *fnO&u
+
+
+**Again this is my first attempt at both repo, and java program so any tips, comments, or ideas are all welcomed.
+
+Stay classy SanDiego
+Thanks for stopping by
